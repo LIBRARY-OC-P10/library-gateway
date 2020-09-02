@@ -11,7 +11,7 @@
 	<artifactId>library-gateway</artifactId>
 	<version>1.0.1-SNAPSHOT</version>
 	<name>library-gateway</name>
-	<description>Library webapp for OpenClassrooms Project 7</description>
+	<description>Library webapp for OpenClassrooms Project 10</description>
 
 	<properties>
 		<java.version>1.8</java.version>
@@ -21,9 +21,9 @@
 	</properties>
 	
 	<scm>
-		<connection>scm:git:https://github.com/LIBRARY-OC-P7/library-gateway.git</connection>
-		<developerConnection>scm:git:https://github.com/LIBRARY-OC-P7/library-gateway.git</developerConnection>
-		<url>https://github.com/LIBRARY-OC-P7/library-gateway</url>
+		<connection>scm:git:https://github.com/LIBRARY-OC-P10/library-gateway.git</connection>
+		<developerConnection>scm:git:https://github.com/LIBRARY-OC-P10/library-gateway.git</developerConnection>
+		<url>https://github.com/LIBRARY-OC-P10/library-gateway</url>
 		<tag>@{project.version}</tag>
 	</scm>
 
